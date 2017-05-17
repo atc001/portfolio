@@ -42,7 +42,7 @@ footer {
 }
 main {
 	height: 92%;
-	background-image : url("img/montagne.jpg");
+	background-image : url("../img/montagne.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;  
 	display: flex;
